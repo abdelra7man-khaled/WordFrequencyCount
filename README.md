@@ -1,1 +1,1 @@
-# WordFrequnecyCount
+# WordFrequencyCount
